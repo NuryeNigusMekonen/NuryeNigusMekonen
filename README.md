@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-I bridge the gap between **physical systems** and **intelligent software**. With a B.Sc. in Electromechanical Engineering and an M.Sc. in Computer Science, I build full-stack AI applications and industrial control systems. My passion lies in creating integrated solutions—from data and models to scalable APIs and interactive interfaces.
+I bridge the gap between **physical systems** and **intelligent software**. With a B.Sc. in Electromechanical Engineering and an M.Sc. in Computer Science, I build full-stack AI applications and industrial control systems. My passion lies in creating integrated solutions from data and models to scalable APIs and interactive interfaces.
 
 ---
 

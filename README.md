@@ -67,18 +67,6 @@ I bridge the gap between **physical systems** and **intelligent software**. With
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuryeNigusMekonen&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=default)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NuryeNigusMekonen&layout=compact&theme=default)
-
-</div>
-
----
-
 ## 🏗️ My Development Workflow
 
 1.  **Data Acquisition** – Gather structured/unstructured data from APIs, sensors, or text.

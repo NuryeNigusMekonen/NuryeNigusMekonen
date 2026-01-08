@@ -20,6 +20,8 @@ I bridge the gap between **physical systems** and **intelligent software**. With
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 - **Natural Language Processing** (Amharic NLP, classification, POS tagging, chatbots)
 - **Computer Vision & Time Series Analysis**
@@ -31,6 +33,9 @@ I bridge the gap between **physical systems** and **intelligent software**. With
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Backend:** Python, Flask, REST API design, JWT authentication, SQLAlchemy
 - **Frontend:** React, Axios, modern CSS/HTML
@@ -39,8 +44,9 @@ I bridge the gap between **physical systems** and **intelligent software**. With
 
 ### ⚙️ **Industrial Automation & Control**
 ![PLC](https://img.shields.io/badge/PLC-0085CA?style=for-the-badge&logo=siemens&logoColor=white)
-![HMI](https://img.shields.io/badge/HMI-4A4A4A?style=for-the-badge)
-![Sensor](https://img.shields.io/badge/Sensors-00C7B7?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - PLC programming (Ladder Logic, Structured Text)
 - HMI/SCADA design, sensor & actuator integration
@@ -61,6 +67,18 @@ I bridge the gap between **physical systems** and **intelligent software**. With
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuryeNigusMekonen&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=default)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NuryeNigusMekonen&layout=compact&theme=default)
+
+</div>
+
+---
+
 ## 🏗️ My Development Workflow
 
 1.  **Data Acquisition** – Gather structured/unstructured data from APIs, sensors, or text.
@@ -68,14 +86,6 @@ I bridge the gap between **physical systems** and **intelligent software**. With
 3.  **API Development** – Serve models and business logic via scalable Flask REST APIs.
 4.  **Frontend Integration** – Build responsive React interfaces that consume backend services.
 5.  **Deployment** – Containerize with Docker and deploy for reliable, reproducible execution.
-
----
-
-## 📈 GitHub Stats
-
-![Nurye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuryeNigusMekonen&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NuryeNigusMekonen&layout=compact&theme=radical)
 
 ---
 

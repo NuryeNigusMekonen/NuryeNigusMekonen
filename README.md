@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nurye Nigus Mekonen
+#  Hello, I'm Nurye Nigus Mekonen
 
 **Electromechanical Engineer | Computer Science Master's Graduate | Full Stack & AI Developer**  
 📍 Addis Ababa, Ethiopia  
@@ -7,15 +7,15 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I bridge the gap between **physical systems** and **intelligent software**. With a B.Sc. in Electromechanical Engineering and an M.Sc. in Computer Science, I build full-stack AI applications and industrial control systems. My passion lies in creating integrated solutions from data and models to scalable APIs and interactive interfaces.
 
 ---
 
-## 🛠️ Technical Toolkit
+##  Technical Toolkit
 
-### 🤖 **Machine Learning & AI**
+###  **Machine Learning & AI**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -27,7 +27,7 @@ I bridge the gap between **physical systems** and **intelligent software**. With
 - **Computer Vision & Time Series Analysis**
 - **Model Evaluation & Explainability (XAI)**
 
-### 🌐 **Full Stack Development**
+###  **Full Stack Development**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,7 +42,7 @@ I bridge the gap between **physical systems** and **intelligent software**. With
 - **Databases:** PostgreSQL, SQLite
 - **DevOps & Tools:** Docker, Git, CI/CD fundamentals
 
-### ⚙️ **Industrial Automation & Control**
+###  **Industrial Automation & Control**
 ![PLC](https://img.shields.io/badge/PLC-0085CA?style=for-the-badge&logo=siemens&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
@@ -55,7 +55,7 @@ I bridge the gap between **physical systems** and **intelligent software**. With
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -67,7 +67,7 @@ I bridge the gap between **physical systems** and **intelligent software**. With
 
 ---
 
-## 🏗️ My Development Workflow
+##  My Development Workflow
 
 1.  **Data Acquisition** – Gather structured/unstructured data from APIs, sensors, or text.
 2.  **Processing & Modeling** – Clean, explore, and train ML models for prediction or insight.
@@ -77,7 +77,7 @@ I bridge the gap between **physical systems** and **intelligent software**. With
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm always open to discussing **AI, full-stack development, automation projects, or research collaboration**.
 

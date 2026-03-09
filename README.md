@@ -1,3 +1,4 @@
+````markdown
 <h1 align="center">Hello, I'm Nurye Nigus Mekonen</h1>
 <h3 align="center">Electromechanical Engineer | AI Engineer | Full Stack Developer | Industrial Automation and IoT Systems</h3>
 
@@ -222,6 +223,131 @@ Sensors / APIs / Documents / Industrial Machines
        Frontend Dashboard or User Interface
                     ↓
      Deployment, Monitoring, and Maintenance
+````
 
-GitHub Analytics
-<p align="center"> <a href="mailto:nurye.nigus.me@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://www.linkedin.com/in/nryngs/"> <img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/NuryeNigusMekonen"> <img src="https://img.shields.io/badge/GitHub-View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NuryeNigusMekonen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NuryeNigusMekonen&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuryeNigusMekonen&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NuryeNigusMekonen&theme=tokyonight" alt="Profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NuryeNigusMekonen&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NuryeNigusMekonen&theme=tokyonight" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NuryeNigusMekonen&theme=tokyonight" alt="Stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NuryeNigusMekonen&theme=tokyonight&utcOffset=3" alt="Productive time" />
+</p>
+
+---
+
+## GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NuryeNigusMekonen&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+</p>
+
+---
+
+## Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NuryeNigusMekonen&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+## What I Build
+
+* AI systems for language, prediction, and analytics
+* Smart industrial monitoring solutions
+* Full stack applications for engineering use cases
+* IoT platforms for field data collection
+* Predictive maintenance and anomaly detection systems
+* Dashboards for machine and business visibility
+* Integrated systems from hardware to software
+
+---
+
+## Current Interests
+
+* Industrial AI
+* Predictive maintenance
+* Remote machine monitoring
+* Smart manufacturing systems
+* Amharic language technology
+* Edge intelligence
+* Applied machine learning in real operations
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:nurye.nigus.me@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/nryngs/">
+    <img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/NuryeNigusMekonen">
+    <img src="https://img.shields.io/badge/GitHub-View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Building intelligent systems from industrial hardware to production ready software.</b>
+</p>
+```
+
+Use this extra block too, if you want the moving snake animation in your profile repository.
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: NuryeNigusMekonen
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+```markdown
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NuryeNigusMekonen/NuryeNigusMekonen/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
+```

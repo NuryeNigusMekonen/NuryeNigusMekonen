@@ -1,192 +1,227 @@
-<h1 align="center">Nurye Nigus Mekonen</h1>
-<h3 align="center">AI Engineer | Industrial Automation | IoT Systems | Full Stack Developer</h3>
+<h1 align="center">Hello, I'm Nurye Nigus Mekonen</h1>
+<h3 align="center">Electromechanical Engineer | AI Engineer | Full Stack Developer | Industrial Automation and IoT Systems</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=NuryeNigusMekonen&color=blue&style=for-the-badge">
-<img src="https://img.shields.io/github/followers/NuryeNigusMekonen?style=for-the-badge">
-<img src="https://img.shields.io/github/stars/NuryeNigusMekonen?style=for-the-badge">
+  <a href="mailto:nurye.nigus.me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nurye.nigus.me%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/nryngs/">
+    <img src="https://img.shields.io/badge/LinkedIn-nryngs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/NuryeNigusMekonen">
+    <img src="https://img.shields.io/badge/GitHub-NuryeNigusMekonen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Addis_Ababa,_Ethiopia-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 <p align="center">
-<a href="mailto:nurye.nigus.me@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-<a href="https://www.linkedin.com/in/nryngs/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
-</a>
+  <img src="https://komarev.com/ghpvc/?username=NuryeNigusMekonen&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/NuryeNigusMekonen?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/NuryeNigusMekonen?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
 </p>
 
 ---
 
-# About Me
+## About Me
 
-Engineer working at the intersection of physical machines and intelligent software.
+I build systems where machines, sensors, data, and software work together.
 
-Background
+My background combines electromechanical engineering and computer science. I work across industrial automation, AI applications, full stack development, IoT platforms, data systems, and intelligent monitoring.
 
-• BSc Electromechanical Engineering  
-• MSc Computer Science  
+I focus on practical systems from sensor level data collection to machine learning models, APIs, dashboards, deployment, and remote operations.
 
-Focus
+### What I Focus On
 
-• Machine learning systems  
-• Industrial automation  
-• IoT monitoring platforms  
-• Data pipelines  
-• Full stack AI applications  
-
-I build end to end systems. Sensors. Data pipelines. Models. APIs. Dashboards. Deployment.
+- Industrial automation and control systems
+- AI and machine learning applications
+- IoT and edge intelligence
+- Predictive maintenance and fault detection
+- Full stack software for engineering workflows
+- Sensor data pipelines and remote monitoring
+- Industrial digitalization and smart systems
 
 ---
 
-# Technology Stack
+## Technical Toolkit
 
-## AI and Machine Learning
+### Machine Learning, AI, and Analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" alt="ML tools" />
 </p>
-
-Tools
-
-• Transformers  
-• HuggingFace  
-• XGBoost  
-• LightGBM  
-• SHAP explainability  
-
-Libraries
-
-• Pandas  
-• NumPy  
-• Matplotlib  
-• Plotly  
-
----
-
-## Backend and APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,mongodb,redis"/>
+  <img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/SHAP-6A5ACD?style=for-the-badge" alt="SHAP" />
+  <img src="https://img.shields.io/badge/LIME-228B22?style=for-the-badge" alt="LIME" />
 </p>
 
-Capabilities
+- Natural Language Processing
+- Amharic NLP
+- Classification and prediction systems
+- Time series analysis
+- Computer vision fundamentals
+- Explainable AI
+- Model evaluation and experimentation
 
-• REST API architecture  
-• Authentication systems  
-• Backend microservices  
-• Data services  
-
----
-
-## Frontend Development
+### Data Science and Data Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis" alt="Data tools" />
 </p>
-
-Tools
-
-• Axios  
-• Dash dashboards  
-• Streamlit  
-
----
-
-## DevOps and Data Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,github,linux"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Polars-1C1C1C?style=for-the-badge" alt="Polars" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Prefect-1F2937?style=for-the-badge" alt="Prefect" />
 </p>
 
-Tools
+- ETL and ELT pipelines
+- Sensor data processing
+- Data cleaning and transformation
+- Analytics workflows
+- Structured and unstructured data handling
+- Reporting and visualization
 
-• MLflow  
-• DVC  
-• Apache Airflow  
-• Prefect  
-• Prometheus  
-• Grafana  
+### Backend, APIs, and Software Systems
 
----
-
-## Industrial Automation
-
-Technologies
-
-• PLC programming  
-• Ladder Logic  
-• Structured Text  
-• SCADA systems  
-• HMI interfaces  
-
-Industrial Integration
-
-• Sensors  
-• Actuators  
-• Encoders  
-• Motor drives  
-
----
-
-## IoT and Edge Systems
-
-Hardware
-
-• ESP32  
-• Arduino  
-• Raspberry Pi  
-
-Protocols
-
-• MQTT  
-• Modbus  
-• RS485  
-
-Platforms
-
-• Node RED  
-• ThingsBoard  
-
-Applications
-
-• Fuel monitoring systems  
-• Industrial telemetry  
-• Smart sensor networks  
-
----
-
-# Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| Amharic News Classifier | NLP classification for Amharic news | Transformers |
-| Amharic POS Tagger | Linguistic tagging system | CRF NLP |
-| Amharic Chatbot | Conversational assistant | Rasa |
-| Sentiment Stock Predictor | Market prediction using sentiment | LSTM |
-| Fintech App Analytics | App review analysis platform | Dash |
-
----
-
-# GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NuryeNigusMekonen&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NuryeNigusMekonen&theme=tokyonight"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,nextjs,typescript,javascript,html,css" alt="Full stack tools" />
 </p>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuryeNigusMekonen&layout=compact&theme=tokyonight"/>
+<p>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" alt="Axios" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash" />
 </p>
+
+- Backend architecture
+- API design
+- Authentication and authorization
+- Database integration
+- Full stack interfaces
+- Dashboard development
+- Engineering tools for web workflows
+
+### DevOps, Deployment, and MLOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,github,git,linux,bash" alt="DevOps tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" alt="MLflow" />
+  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge" alt="DVC" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+</p>
+
+- Containerization
+- Reproducible environments
+- CI and CD fundamentals
+- Experiment tracking
+- Monitoring and observability
+- Deployment workflows
+
+### Industrial Automation and Control
+
+<p>
+  <img src="https://img.shields.io/badge/PLC-005CA9?style=for-the-badge" alt="PLC" />
+  <img src="https://img.shields.io/badge/Structured_Text-0F766E?style=for-the-badge" alt="Structured Text" />
+  <img src="https://img.shields.io/badge/Ladder_Logic-2563EB?style=for-the-badge" alt="Ladder Logic" />
+  <img src="https://img.shields.io/badge/HMI-7C3AED?style=for-the-badge" alt="HMI" />
+  <img src="https://img.shields.io/badge/SCADA-6D28D9?style=for-the-badge" alt="SCADA" />
+  <img src="https://img.shields.io/badge/Motor_Control-8B5CF6?style=for-the-badge" alt="Motor Control" />
+</p>
+
+- PLC programming
+- HMI and SCADA development
+- Sensor and actuator integration
+- Encoder based systems
+- Electrical panel design
+- Diesel generator systems
+- UPS systems
+- Control logic and troubleshooting
+
+### IoT, Edge Computing, and Remote Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" alt="IoT tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/WebSocket-1E3A8A?style=for-the-badge" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/Modbus-0A9396?style=for-the-badge" alt="Modbus" />
+  <img src="https://img.shields.io/badge/RS485-334155?style=for-the-badge" alt="RS485" />
+  <img src="https://img.shields.io/badge/Node_RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" alt="Node-RED" />
+  <img src="https://img.shields.io/badge/ThingsBoard-2E77BC?style=for-the-badge" alt="ThingsBoard" />
+  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" alt="MicroPython" />
+</p>
+
+- Remote telemetry
+- Edge device integration
+- Sensor networks
+- Fuel monitoring systems
+- Smart machine monitoring
+- Cloud connected field systems
+- Remote dashboards and alerts
 
 ---
 
-# Achievements
+## Core Areas of Work
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NuryeNigusMekonen&theme=tokyonight&row=1&column=7"/>
-</p>
+| Area | What I Build |
+|---|---|
+| AI Systems | NLP, prediction, classification, explainability, intelligent analytics |
+| Full Stack Development | APIs, frontend dashboards, authentication, data driven applications |
+| Data Systems | ETL pipelines, analytics, model workflows, telemetry pipelines |
+| Automation | PLC logic, HMI, SCADA, industrial controls, troubleshooting |
+| IoT | ESP32 systems, MQTT pipelines, sensor monitoring, edge devices |
+| Engineering Systems | Generators, UPS systems, panel work, electrical integration |
 
 ---
 
-# Engineering Workflow
+## Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|---|---|---|---|
+| Amharic News Classifier | NLP model for classifying Amharic news articles | Python, Transformers, Flask | <a href="https://github.com/NuryeNigusMekonen/amharic-news-classifier-in-bbc">Repository</a> |
+| Amharic POS Tagger | Part of speech tagging system for Amharic language | Python, CRF, NLTK | <a href="https://github.com/NuryeNigusMekonen/amharic-pos-tagger">Repository</a> |
+| Amharic Chat Bot | Conversational AI chatbot for Amharic | Python, Rasa, TensorFlow | <a href="https://github.com/NuryeNigusMekonen/Amharic_Chat_bot">Repository</a> |
+| Sentiment Stock Predictor | Stock prediction using sentiment analysis from news | Python, LSTM, yfinance, Flask | <a href="https://github.com/NuryeNigusMekonen/sentiment-stock-predictor-for-nova-insights-PLLC">Repository</a> |
+| Fintech App Analytics | Review scraping and analytics for fintech applications | Python, Selenium, TextBlob, Dash | <a href="https://github.com/NuryeNigusMekonen/Customer_Experience_Analytics_for_Fintech_Apps">Repository</a> |
+
+---
+
+## Engineering Workflow
+
+```text
+Sensors / APIs / Documents / Industrial Machines
+                    ↓
+        Data Acquisition and Validation
+                    ↓
+      Processing, Cleaning, Transformation
+                    ↓
+     Machine Learning or Control Logic Layer
+                    ↓
+        Backend API and Service Integration
+                    ↓
+       Frontend Dashboard or User Interface
+                    ↓
+     Deployment, Monitoring, and Maintenance
+
+GitHub Analytics
+<p align="center"> <a href="mailto:nurye.nigus.me@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://www.linkedin.com/in/nryngs/"> <img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/NuryeNigusMekonen"> <img src="https://img.shields.io/badge/GitHub-View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>

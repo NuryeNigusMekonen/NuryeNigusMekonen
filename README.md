@@ -1,281 +1,151 @@
-# Hello, I'm Nurye Nigus Mekonen
+<h1 align="center">Hi, I'm Nurye Nigus Mekonen</h1>
+<h3 align="center">Electromechanical Engineer | AI Engineer | Full Stack Developer | Industrial Automation & IoT</h3>
 
-Electromechanical Engineer | M.Sc. Computer Science | AI, Automation, and Full Stack Systems  
-Addis Ababa, Ethiopia  
-Email: nurye.nigus.me@gmail.com  
-LinkedIn: https://www.linkedin.com/in/nryngs/
+<p align="center">
+  <a href="mailto:nurye.nigus.me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nryngs/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nurye_Nigus_Mekonen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/NuryeNigusMekonen">
+    <img src="https://img.shields.io/badge/GitHub-NuryeNigusMekonen-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Addis_Ababa,_Ethiopia-228B22?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 ---
 
 ## About Me
 
-I design systems where machines, sensors, and software operate as one intelligent platform.
+I build systems that connect machines, sensors, and software into one intelligent solution.
 
-My work connects industrial hardware with modern AI software. I build solutions across the full pipeline. Data collection. Model development. API systems. Frontend dashboards. Edge deployment.
+My background combines electromechanical engineering and computer science. I work across industrial automation, AI systems, IoT, backend APIs, dashboards, and deployment pipelines.
 
-Background in electromechanical engineering and computer science provides strong capability in both physical infrastructure and digital intelligence.
-
-Focus areas
-
-• Industrial automation  
-• Machine learning systems  
-• IoT and edge intelligence  
-• Data driven decision systems  
-• Full stack AI applications  
+I focus on building useful systems for real operations, from sensor data collection to machine learning models, control logic, and user-facing applications.
 
 ---
 
-## Technical Toolkit
+## What I Work On
 
-### Machine Learning and AI
-
-Python  
-TensorFlow  
-PyTorch  
-Scikit-learn  
-Transformers  
-HuggingFace  
-XGBoost  
-LightGBM  
-
-Libraries
-
-Pandas  
-NumPy  
-SciPy  
-Matplotlib  
-Seaborn  
-Plotly  
-
-Specializations
-
-• Natural Language Processing  
-• Amharic NLP systems  
-• Time series forecasting  
-• Predictive maintenance  
-• Fraud detection models  
-• Explainable AI using SHAP and LIME  
+- Industrial automation and smart control systems
+- IoT and remote monitoring platforms
+- Machine learning and intelligent analytics
+- Full stack AI applications
+- Predictive maintenance and fault detection
+- Data pipelines and model deployment
+- API development and dashboard systems
 
 ---
+
+## Tech Stack
+
+### AI, Machine Learning, and Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### Backend, Full Stack, and DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 ### Data Engineering and MLOps
 
-Tools
+<p>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prefect-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-1A1A1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
 
-Apache Airflow  
-MLflow  
-DVC  
-Prefect  
+### Industrial Automation, IoT, and Edge Systems
 
-Data stack
-
-PostgreSQL  
-MongoDB  
-Redis  
-
-Data processing
-
-PySpark  
-Polars  
-Pandas pipelines  
-
-Deployment
-
-Docker  
-Docker Compose  
-GitHub Actions  
-CI CD pipelines  
-
-Model serving
-
-FastAPI  
-Flask  
-REST API systems  
-
-Monitoring
-
-Prometheus  
-Grafana  
+<p>
+  <img src="https://img.shields.io/badge/PLC-005CA9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Structured_Text-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ladder_Logic-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HMI_SCADA-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node_RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
+  <img src="https://img.shields.io/badge/ThingsBoard-2E77BC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modbus-0A9396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RS485-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-### Full Stack Development
+## Core Skills
 
-Backend
-
-Python  
-FastAPI  
-Flask  
-Node.js  
-
-Architecture
-
-REST APIs  
-JWT authentication  
-Microservice design  
-Event driven systems  
-
-Frontend
-
-React  
-Next.js  
-TypeScript  
-Axios  
-
-Visualization
-
-Dash  
-Streamlit  
-Plotly dashboards  
-
-Databases
-
-PostgreSQL  
-SQLite  
-MongoDB  
-
----
-
-### Industrial Automation and Control
-
-PLC systems
-
-Siemens S7  
-Structured Text  
-Ladder Logic  
-
-Industrial systems
-
-SCADA systems  
-HMI development  
-Sensor integration  
-Actuator control  
-
-Engineering systems
-
-Electrical panel design  
-Diesel generator systems  
-UPS power systems  
-Industrial protection systems  
-
-Industrial networking
-
-Modbus  
-RS485  
-Ethernet based industrial communication  
-
----
-
-### IoT and Edge Intelligence
-
-Hardware
-
-ESP32  
-Arduino  
-Raspberry Pi  
-
-Sensors
-
-Fuel level sensors  
-Temperature sensors  
-Pressure sensors  
-Flow sensors  
-Encoder systems  
-
-Communication
-
-MQTT  
-HTTP  
-WebSocket  
-
-Edge computing
-
-MicroPython  
-Embedded C  
-
-IoT platforms
-
-Node Red  
-ThingsBoard  
-
-Applications
-
-• Fuel monitoring systems  
-• Industrial equipment monitoring  
-• Smart sensor networks  
-• Remote telemetry systems  
-
----
-
-## AI for Industrial Systems
-
-Industrial machine learning applications
-
-• Predictive maintenance models  
-• Fault detection systems  
-• Sensor anomaly detection  
-• Equipment health monitoring  
-
-Industrial data pipelines
-
-Sensor data ingestion  
-Streaming telemetry analysis  
-Edge inference systems  
+| Area | Skills |
+|---|---|
+| Machine Learning | NLP, Amharic NLP, classification, forecasting, anomaly detection, explainable AI |
+| Full Stack | FastAPI, Flask, React, Next.js, REST APIs, authentication, dashboards |
+| Data Systems | ETL pipelines, model tracking, experiment management, telemetry processing |
+| Industrial Systems | PLC programming, HMI/SCADA, sensors, actuators, control logic |
+| IoT | ESP32, Arduino, Raspberry Pi, MQTT, remote monitoring, edge devices |
+| Engineering | panel design, diesel generators, UPS systems, encoder-based systems |
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| Amharic News Classifier | NLP model to classify Amharic news articles | Python, Transformers, Flask |
-| Amharic POS Tagger | Part of speech tagging system for Amharic language | Python, CRF, NLTK |
-| Amharic Chatbot | Conversational AI assistant for Amharic language users | Python, Rasa, TensorFlow |
-| Sentiment Stock Predictor | Stock prediction using news sentiment analysis | Python, LSTM, yfinance, Flask |
-| Fintech App Analytics | Scraping and sentiment analysis of fintech app reviews | Python, Selenium, TextBlob, Dash |
-| IoT Fuel Monitoring System | Remote fuel tank monitoring using ESP32 and cloud dashboard | ESP32, MQTT, Python backend |
+| Project | Description | Stack |
+|---|---|---|
+| [Amharic News Classifier](https://github.com/NuryeNigusMekonen/amharic-news-classifier-in-bbc) | NLP model for Amharic news classification | Python, Transformers, Flask |
+| [Amharic POS Tagger](https://github.com/NuryeNigusMekonen/amharic-pos-tagger) | Part of speech tagging for Amharic text | Python, CRF, NLTK |
+| [Amharic Chat Bot](https://github.com/NuryeNigusMekonen/Amharic_Chat_bot) | Conversational AI system for Amharic | Python, Rasa, TensorFlow |
+| [Sentiment Stock Predictor](https://github.com/NuryeNigusMekonen/sentiment-stock-predictor-for-nova-insights-PLLC) | Sentiment-driven stock prediction workflow | Python, LSTM, Flask |
+| [Fintech App Analytics](https://github.com/NuryeNigusMekonen/Customer_Experience_Analytics_for_Fintech_Apps) | App review scraping and analytics | Python, Selenium, Dash |
+| IoT Fuel Monitoring System | Remote fuel tank monitoring and telemetry platform | ESP32, MQTT, Python |
 
 ---
 
 ## Engineering Workflow
 
-1 Data Acquisition  
-Collect data from sensors, APIs, industrial machines, or text sources.
-
-2 Data Processing  
-Clean, validate, and structure datasets.
-
-3 Modeling  
-Train machine learning models for prediction or classification.
-
-4 API Systems  
-Expose models through scalable backend APIs.
-
-5 Interface Layer  
-Develop dashboards and user interfaces.
-
-6 Deployment  
-Containerize systems using Docker and deploy on cloud or edge devices.
-
----
-
-## Research and Interests
-
-Industrial AI systems  
-Smart manufacturing  
-Edge machine learning  
-Amharic natural language processing  
-Autonomous monitoring systems  
-
----
-
-## Connect
-
-Email  
-nurye.nigus.me@gmail.com
-
-LinkedIn  
-https://www.linkedin.com/in/nryngs/
-
-GitHub  
-https://github.com/NuryeNigusMekonen
+```text
+Sensors / Data Sources
+        ↓
+Data Collection and Validation
+        ↓
+Processing and Feature Engineering
+        ↓
+Model Training or Control Logic
+        ↓
+API and Backend Services
+        ↓
+Dashboard / Web Interface / Remote Monitoring
+        ↓
+Deployment on Cloud or Edge Devices

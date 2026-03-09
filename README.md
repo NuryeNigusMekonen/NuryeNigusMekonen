@@ -1,90 +1,281 @@
-#  Hello, I'm Nurye Nigus Mekonen
+# Hello, I'm Nurye Nigus Mekonen
 
-**Electromechanical Engineer | Computer Science Master's Graduate | Full Stack & AI Developer**  
-📍 Addis Ababa, Ethiopia  
-📧 [nurye.nigus.me@gmail.com](mailto:nurye.nigus.me@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nryngs/)
-
----
-
-##  About Me
-
-I bridge the gap between **physical systems** and **intelligent software**. With a B.Sc. in Electromechanical Engineering and an M.Sc. in Computer Science, I build full-stack AI applications and industrial control systems. My passion lies in creating integrated solutions from data and models to scalable APIs and interactive interfaces.
+Electromechanical Engineer | M.Sc. Computer Science | AI, Automation, and Full Stack Systems  
+Addis Ababa, Ethiopia  
+Email: nurye.nigus.me@gmail.com  
+LinkedIn: https://www.linkedin.com/in/nryngs/
 
 ---
 
-##  Technical Toolkit
+## About Me
 
-###  **Machine Learning & AI**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+I design systems where machines, sensors, and software operate as one intelligent platform.
 
-- **Natural Language Processing** (Amharic NLP, classification, POS tagging, chatbots)
-- **Computer Vision & Time Series Analysis**
-- **Model Evaluation & Explainability (XAI)**
+My work connects industrial hardware with modern AI software. I build solutions across the full pipeline. Data collection. Model development. API systems. Frontend dashboards. Edge deployment.
 
-###  **Full Stack Development**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Background in electromechanical engineering and computer science provides strong capability in both physical infrastructure and digital intelligence.
 
-- **Backend:** Python, Flask, REST API design, JWT authentication, SQLAlchemy
-- **Frontend:** React, Axios, modern CSS/HTML
-- **Databases:** PostgreSQL, SQLite
-- **DevOps & Tools:** Docker, Git, CI/CD fundamentals
+Focus areas
 
-###  **Industrial Automation & Control**
-![PLC](https://img.shields.io/badge/PLC-0085CA?style=for-the-badge&logo=siemens&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-- PLC programming (Ladder Logic, Structured Text)
-- HMI/SCADA design, sensor & actuator integration
-- Electrical panel design, diesel generators, UPS systems
-- Encoder-based measurement & control systems
+• Industrial automation  
+• Machine learning systems  
+• IoT and edge intelligence  
+• Data driven decision systems  
+• Full stack AI applications  
 
 ---
 
-##  Featured Projects
+## Technical Toolkit
+
+### Machine Learning and AI
+
+Python  
+TensorFlow  
+PyTorch  
+Scikit-learn  
+Transformers  
+HuggingFace  
+XGBoost  
+LightGBM  
+
+Libraries
+
+Pandas  
+NumPy  
+SciPy  
+Matplotlib  
+Seaborn  
+Plotly  
+
+Specializations
+
+• Natural Language Processing  
+• Amharic NLP systems  
+• Time series forecasting  
+• Predictive maintenance  
+• Fraud detection models  
+• Explainable AI using SHAP and LIME  
+
+---
+
+### Data Engineering and MLOps
+
+Tools
+
+Apache Airflow  
+MLflow  
+DVC  
+Prefect  
+
+Data stack
+
+PostgreSQL  
+MongoDB  
+Redis  
+
+Data processing
+
+PySpark  
+Polars  
+Pandas pipelines  
+
+Deployment
+
+Docker  
+Docker Compose  
+GitHub Actions  
+CI CD pipelines  
+
+Model serving
+
+FastAPI  
+Flask  
+REST API systems  
+
+Monitoring
+
+Prometheus  
+Grafana  
+
+---
+
+### Full Stack Development
+
+Backend
+
+Python  
+FastAPI  
+Flask  
+Node.js  
+
+Architecture
+
+REST APIs  
+JWT authentication  
+Microservice design  
+Event driven systems  
+
+Frontend
+
+React  
+Next.js  
+TypeScript  
+Axios  
+
+Visualization
+
+Dash  
+Streamlit  
+Plotly dashboards  
+
+Databases
+
+PostgreSQL  
+SQLite  
+MongoDB  
+
+---
+
+### Industrial Automation and Control
+
+PLC systems
+
+Siemens S7  
+Structured Text  
+Ladder Logic  
+
+Industrial systems
+
+SCADA systems  
+HMI development  
+Sensor integration  
+Actuator control  
+
+Engineering systems
+
+Electrical panel design  
+Diesel generator systems  
+UPS power systems  
+Industrial protection systems  
+
+Industrial networking
+
+Modbus  
+RS485  
+Ethernet based industrial communication  
+
+---
+
+### IoT and Edge Intelligence
+
+Hardware
+
+ESP32  
+Arduino  
+Raspberry Pi  
+
+Sensors
+
+Fuel level sensors  
+Temperature sensors  
+Pressure sensors  
+Flow sensors  
+Encoder systems  
+
+Communication
+
+MQTT  
+HTTP  
+WebSocket  
+
+Edge computing
+
+MicroPython  
+Embedded C  
+
+IoT platforms
+
+Node Red  
+ThingsBoard  
+
+Applications
+
+• Fuel monitoring systems  
+• Industrial equipment monitoring  
+• Smart sensor networks  
+• Remote telemetry systems  
+
+---
+
+## AI for Industrial Systems
+
+Industrial machine learning applications
+
+• Predictive maintenance models  
+• Fault detection systems  
+• Sensor anomaly detection  
+• Equipment health monitoring  
+
+Industrial data pipelines
+
+Sensor data ingestion  
+Streaming telemetry analysis  
+Edge inference systems  
+
+---
+
+## Featured Projects
 
 | Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Amharic News Classifier](https://github.com/NuryeNigusMekonen/amharic-news-classifier-in-bbc)** | NLP model to classify Amharic news articles. | Python, Transformers, Flask |
-| **[Amharic POS Tagger](https://github.com/NuryeNigusMekonen/amharic-pos-tagger)** | Part-of-speech tagger for Amharic language. | Python, CRF, NLTK |
-| **[Amharic Chat Bot](https://github.com/NuryeNigusMekonen/Amharic_Chat_bot)** | Conversational AI chatbot for Amharic. | Python, Rasa, TensorFlow |
-| **[Sentiment Stock Predictor](https://github.com/NuryeNigusMekonen/sentiment-stock-predictor-for-nova-insights-PLLC)** | Stock prediction using news sentiment analysis. | Python, LSTM, yfinance, Flask |
-| **[Fintech App Analytics](https://github.com/NuryeNigusMekonen/Customer_Experience_Analytics_for_Fintech_Apps)** | Scraping & analytics of fintech app reviews. | Python, Selenium, TextBlob, Dash |
+|--------|-------------|------------|
+| Amharic News Classifier | NLP model to classify Amharic news articles | Python, Transformers, Flask |
+| Amharic POS Tagger | Part of speech tagging system for Amharic language | Python, CRF, NLTK |
+| Amharic Chatbot | Conversational AI assistant for Amharic language users | Python, Rasa, TensorFlow |
+| Sentiment Stock Predictor | Stock prediction using news sentiment analysis | Python, LSTM, yfinance, Flask |
+| Fintech App Analytics | Scraping and sentiment analysis of fintech app reviews | Python, Selenium, TextBlob, Dash |
+| IoT Fuel Monitoring System | Remote fuel tank monitoring using ESP32 and cloud dashboard | ESP32, MQTT, Python backend |
 
 ---
 
-##  My Development Workflow
+## Engineering Workflow
 
-1.  **Data Acquisition** – Gather structured/unstructured data from APIs, sensors, or text.
-2.  **Processing & Modeling** – Clean, explore, and train ML models for prediction or insight.
-3.  **API Development** – Serve models and business logic via scalable Flask REST APIs.
-4.  **Frontend Integration** – Build responsive React interfaces that consume backend services.
-5.  **Deployment** – Containerize with Docker and deploy for reliable, reproducible execution.
+1 Data Acquisition  
+Collect data from sensors, APIs, industrial machines, or text sources.
+
+2 Data Processing  
+Clean, validate, and structure datasets.
+
+3 Modeling  
+Train machine learning models for prediction or classification.
+
+4 API Systems  
+Expose models through scalable backend APIs.
+
+5 Interface Layer  
+Develop dashboards and user interfaces.
+
+6 Deployment  
+Containerize systems using Docker and deploy on cloud or edge devices.
 
 ---
 
-##  Let's Connect
+## Research and Interests
 
-I'm always open to discussing **AI, full-stack development, automation projects, or research collaboration**.
-
-- **Email:** [nurye.nigus.me@gmail.com](mailto:nurye.nigus.me@gmail.com)
-- **LinkedIn:** [nryngs](https://www.linkedin.com/in/nryngs/)
-- **GitHub:** [NuryeNigusMekonen](https://github.com/NuryeNigusMekonen)
+Industrial AI systems  
+Smart manufacturing  
+Edge machine learning  
+Amharic natural language processing  
+Autonomous monitoring systems  
 
 ---
 
-> *"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."* – Adapted from Thomas Tredgold
+## Connect
+
+Email  
+nurye.nigus.me@gmail.com
+
+LinkedIn  
+https://www.linkedin.com/in/nryngs/
+
+GitHub  
+https://github.com/NuryeNigusMekonen

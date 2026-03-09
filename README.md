@@ -1,4 +1,3 @@
-```
 <h1 align="center">Nurye Nigus Mekonen</h1>
 <h3 align="center">AI Engineer | Industrial Automation | IoT Systems | Full Stack Developer</h3>
 
@@ -191,45 +190,3 @@ Applications
 ---
 
 # Engineering Workflow
-
-```
-
-Sensors
-↓
-Data Collection
-↓
-Processing
-↓
-Machine Learning Model
-↓
-API Service
-↓
-Dashboard Interface
-↓
-Deployment
-
-```
-
----
-
-# Interests
-
-Industrial AI  
-Edge intelligence  
-Predictive maintenance  
-Amharic language technology  
-Smart infrastructure systems
-
----
-
-# Contact
-
-Email  
-nurye.nigus.me@gmail.com  
-
-LinkedIn  
-linkedin.com/in/nryngs  
-
-GitHub  
-github.com/NuryeNigusMekonen
-```

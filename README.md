@@ -207,7 +207,7 @@ I focus on practical systems from sensor level data collection to machine learni
 
 ## Engineering Workflow
 
-```text
+
 Sensors / APIs / Documents / Industrial Machines
                     ↓
         Data Acquisition and Validation
@@ -222,6 +222,7 @@ Sensors / APIs / Documents / Industrial Machines
                     ↓
      Deployment, Monitoring, and Maintenance
 
+---
 ---
 
 ## GitHub Analytics
@@ -313,14 +314,9 @@ Sensors / APIs / Documents / Industrial Machines
   </a>
 </p>
 
----
-
 <p align="center">
   <b>Building intelligent systems from industrial hardware to production ready software.</b>
 </p>
-
-<!--
-Create this file separately only if you want the snake animation:
 
 .github/workflows/snake.yml
 
@@ -348,7 +344,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
-```
-```

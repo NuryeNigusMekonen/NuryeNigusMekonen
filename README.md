@@ -317,8 +317,8 @@ Sensors / APIs / Documents / Industrial Machines
 <p align="center">
   <b>Building intelligent systems from industrial hardware to production ready software.</b>
 </p>
+```
 
-.github/workflows/snake.yml
 
 name: Generate Snake
 
@@ -336,7 +336,6 @@ jobs:
         with:
           github_user_name: NuryeNigusMekonen
           outputs: dist/github-contribution-grid-snake.svg
-
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -344,3 +343,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```

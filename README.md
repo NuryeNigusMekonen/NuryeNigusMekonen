@@ -207,7 +207,7 @@ I focus on practical systems from sensor level data collection to machine learni
 
 ## Engineering Workflow
 
-
+```
 Sensors / APIs / Documents / Industrial Machines
                     ↓
         Data Acquisition and Validation
@@ -221,6 +221,8 @@ Sensors / APIs / Documents / Industrial Machines
        Frontend Dashboard or User Interface
                     ↓
      Deployment, Monitoring, and Maintenance
+```
+
 ---
 
 ## GitHub Analytics

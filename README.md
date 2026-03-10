@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">Hello, I'm Nurye Nigus Mekonen</h1>
 <h3 align="center">Electromechanical Engineer | AI Engineer | Full Stack Developer | Industrial Automation and IoT Systems</h3>
 
@@ -222,7 +221,6 @@ Sensors / APIs / Documents / Industrial Machines
        Frontend Dashboard or User Interface
                     ↓
      Deployment, Monitoring, and Maintenance
-````
 
 ---
 

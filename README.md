@@ -18,7 +18,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NuryeNigusMekonen&style=for-the-badge&color=blue" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/NuryeNigusMekonen?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/NuryeNigusMekonen?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
 </p>
 
 ---
@@ -270,6 +269,14 @@ Sensors / APIs / Documents / Industrial Machines
 
 ---
 
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NuryeNigusMekonen/NuryeNigusMekonen/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
+
+---
+
 ## What I Build
 
 * AI systems for language, prediction, and analytics
@@ -313,11 +320,12 @@ Sensors / APIs / Documents / Industrial Machines
 <p align="center">
   <b>Building intelligent systems from industrial hardware to production ready software.</b>
 </p>
-```
 
-Use this extra block too, if you want the moving snake animation in your profile repository.
+<!--
+Create this file separately only if you want the snake animation:
 
-```yaml
+.github/workflows/snake.yml
+
 name: Generate Snake
 
 on:
@@ -342,12 +350,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
 ```
-
-```markdown
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NuryeNigusMekonen/NuryeNigusMekonen/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
 ```

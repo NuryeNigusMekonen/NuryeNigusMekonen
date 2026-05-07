@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Nurye Nigus Mekonen</h1>
-<h3 align="center">Electromechanical Engineer | AI Engineer | Full Stack Developer | Industrial Automation and IoT Systems</h3>
+<h3 align="center">Industrial Automation & AI Systems Engineer | PLC, IoT, ML, AI Agents, Data Systems, FDE</h3>
 
 <p align="center">
   <a href="mailto:nurye.nigus.me@gmail.com">
